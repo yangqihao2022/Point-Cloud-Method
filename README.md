@@ -1,7 +1,8 @@
 # Point-Cloud-Method
 Methods is updating...
 
-REFERENCE BY
+
+Reference By
 
 charlesq34/pointnet
 
